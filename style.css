@@ -1,0 +1,29 @@
+:root {
+  font-size: 12px;
+}
+
+.bst {
+  text-align: center;
+}
+
+.bst__key-modifier {
+  padding: 0.5rem;
+  background: rgb(241, 247, 250);
+  border: 1px solid rgb(210, 217, 223);
+  border-radius: 8px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 50%;
+  margin: 0.5rem auto;
+}
+
+.center {
+  display: flex;
+}
+
+.bst__value-modifier {
+  padding: 0.5rem;
+  border: 1px solid blueviolet;
+}
